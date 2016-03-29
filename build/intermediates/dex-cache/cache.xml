@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_daa1afd7bc2839e8b910c744bb41feb8bc514704/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_13e4fba3fc77fa8d6afe7ce49feab0c662ce0731/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5a1c59541c2d5fa15db21161d840692c61244874">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e1e8f4d7e89b28f39ec098f4561a1c5f36b278b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="130cc670e8179865203368f08716497063505663">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c69845929dda60dc69bb7c0b0dd43b45c073f48/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_e8dc1a572b78bbb3ef1941022981deacf8ea1f93/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_8cd1647ab0b4f43729755a4f3ebee4641af5bc2d/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_829b566d590e664c0c727d0fda3170a6dfccb7f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_13e161d61cfb6af4ceb56b06a243225d3d3c5727/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Works/App/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_6b10ff2c4014700a09dbb859f57dfc36959013c2/classes.dex" />
+    </item>
+    <item
+        jar="/home/akane/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/akane/Works/App/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_be5fa7e1993ed6a9ec8a270a4aa42afd4ff80b9b/classes.dex" />
+    </item>
+
+</items>
