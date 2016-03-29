@@ -14,7 +14,7 @@
         tools:context="com.example.akane.myapplication.MainActivity">
 
     <TextView
-            android:text="Hello World!"
+            android:text="ぴっぴこぴー"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 </RelativeLayout>
