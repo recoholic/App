@@ -3,12 +3,13 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:orientation="vertical" >
+        android:orientation="vertical" android:background="@android:color/background_dark">
 
     <Button
             android:id="@+id/btnDisp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="他画面の起動" />
+            android:text="闘気をこめろ" android:textColor="@android:color/holo_green_light"
+            android:focusableInTouchMode="false" android:background="@android:color/black"/>
 
 </LinearLayout>
